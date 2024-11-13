@@ -1,0 +1,15 @@
+.home-page {
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+  }
+  
+  .home-page h1 {
+    font-size: 2em;
+    margin-bottom: 10px;
+  }
+  
+  .home-page p {
+    font-size: 1.2em;
+    color: #555;
+  }
